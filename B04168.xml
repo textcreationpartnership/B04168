@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Long Lent, 1685 or A vindication of the feasts, against those three great horned beasts, John Forbes, Master Duncan Lidel, with his son George to tune their fidle. To the tune of Robin-Hood and the tanner.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04168</idno>
+            <idno type="STC">Wing L2987B</idno>
+            <idno type="STC">ESTC R180132</idno>
+            <idno type="EEBO-CITATION">52614774</idno>
+            <idno type="OCLC">ocm 52614774</idno>
+            <idno type="VID">175960</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04168)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175960)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2757:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Long Lent, 1685 or A vindication of the feasts, against those three great horned beasts, John Forbes, Master Duncan Lidel, with his son George to tune their fidle. To the tune of Robin-Hood and the tanner.</title>
+                  <author>Forbes, John, fl. 1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Forbes, printer in Aberdeen, by National Library of Scotland.</note>
+                  <note>Two images of sheet at this location; first copy contains top half of sheet only.</note>
+                  <note>Contains one woodcut illustration.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, Scots --  17th century.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:175960:1" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:175960:2"/>
+            <head>LONG LENT, 1685.</head>
+            <argument>
+               <lg>
+                  <l>
+                     <hi>Or a Vindication of the Fea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s,</hi>
+                  </l>
+                  <l>
+                     <hi>Againſt thoſe three great Horned Beaſts,</hi>
+                  </l>
+                  <l>John Forbes, <hi>Maſter</hi> Duncan Lidel.</l>
+                  <l>
+                     <hi>With his Son</hi> George <hi>to tune their fidle.</hi>
+                  </l>
+               </lg>
+            </argument>
+            <opener>To the Tune of <hi>Robin-hood</hi> and the <hi>Tanner.</hi>
+            </opener>
+            <lg>
+               <l>
+                  <hi>LEnt</hi> fourty Work dayes ever was,</l>
+               <l>With juſt ſix Sundayes more;</l>
+               <l>But three Horn'd Beaſts at <hi>Aberdeen</hi>
+               </l>
+               <l>Intends to make three ſcore.</l>
+               <l>For now they want but only ſix,</l>
+               <l>As clearly may appear;</l>
+               <l>And if they continue with their old tricks,</l>
+               <l>They ſhall want none nixt year.</l>
+            </lg>
+            <lg>
+               <l>But for to know when <hi>Paſch</hi> ſhould be,</l>
+               <l>Their Errors to diſcover,</l>
+               <l>It ſtill ſhould the firſt Sunday fall,</l>
+               <l>After the <hi>Jews</hi> Paſs'over.</l>
+               <l>Which falls this year <hi>April</hi> the ſeventh,</l>
+               <l>As <hi>Jews</hi> do reckon all</l>
+               <l>The fourteen day of <hi>Niſan</hi> Month</l>
+               <l>It every year muſt fall.</l>
+            </lg>
+            <lg>
+               <l>The Month of <hi>Niſan</hi> doth begin</l>
+               <l>As beſt imform'd I am,</l>
+               <l>The firſt change of the Moon each year</l>
+               <l>That fall <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Ram.</l>
+               <l>On <hi>March</hi> the twenty fourth this year</l>
+               <l>The change doth fall at night;</l>
+               <l>Then after that count fourteen dayes,</l>
+               <l>
+                  <hi>April</hi> the ſeventh comes right.</l>
+            </lg>
+            <lg>
+               <l>Then Sunday nixt for <hi>Paſch</hi> ye'l find</l>
+               <l>
+                  <hi>April</hi> the twelfth will be</l>
+               <l>Good Friday's ſtill near the full Moon</l>
+               <l>All Authors doth agree;</l>
+               <l>Which made <hi>Dioniſius</hi> to ſay,</l>
+               <l>
+                  <hi>The World</hi>'s <hi>at an end:</hi>
+               </l>
+               <l>
+                  <hi>Or elſe the God of nature muſt</hi>
+               </l>
+               <l>
+                  <hi>Suffer;</hi> this is well kend.</l>
+            </lg>
+            <lg>
+               <l>Becauſe the darkneſs that was then</l>
+               <l>Did fall near the full Moon,</l>
+               <l>Then certainly the Moon he knew,</l>
+               <l>Could not Eclips the Sun:</l>
+               <l>But all their Feaſts are wrong this year,</l>
+               <l>Save <hi>Argol,</hi> which is ſtrange</l>
+               <l>For all their Almanacks makes <hi>Paſch</hi>
+               </l>
+               <l>But four dayes from the Change.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Edinburgh's</hi> true Almanack is right</l>
+               <l>As all the World may ſee;</l>
+               <l>But thoſe ſet out at <hi>Aberdeen</hi>
+               </l>
+               <l>Still worſe and worſe they be,</l>
+               <l>For ſince that Paſch doth Rule the reſt,</l>
+               <l>As <hi>Wing</hi> and others ſhow,</l>
+               <l>Then ſix weeks &amp; five dayes count back</l>
+               <l>For <hi>Faſtens even</hi> to know.</l>
+            </lg>
+            <lg>
+               <l>Then count juſt ſeven Weeks after <hi>Paſch</hi>
+               </l>
+               <l>For to find <hi>Whitſunday,</hi>
+               </l>
+               <l>And ye ſhall find it fall this year</l>
+               <l>On the laſt day of <hi>May:</hi>
+               </l>
+               <l>But this they do not underſtand,</l>
+               <l>It is for them too deep,</l>
+               <l>Although the Ram do bear de Bell</l>
+               <l>Amongſt a flock of Sheep.</l>
+               <l>They do pretend to much learning</l>
+               <l>In <hi>Latin</hi> and in <hi>Greek,</hi>
+               </l>
+               <l>And yet they neither can well writ,</l>
+               <l>Nor yet good <hi>Latin</hi> ſpeak,</l>
+               <l>For <hi>prima Cornu</hi> they do ſay,</l>
+               <l>It is not <hi>Latin</hi> good,</l>
+               <l>Whereas the ſenſe do clearly ſhow</l>
+               <l>That <hi>ſtela</hi>'s underſtood.</l>
+            </lg>
+            <lg>
+               <l>If Maſter <hi>Duncan</hi> underſtood</l>
+               <l>The <hi>Gramer</hi> Rules aright,</l>
+               <l>The Rule Eclipſis he would mind</l>
+               <l>And that would ſet him right;</l>
+               <l>And yet of Learning he will boaſt,</l>
+               <l>And unlearn'd others call;</l>
+               <l>But he that braggeth moſt thereof</l>
+               <l>Hath of times leaſt of all.</l>
+            </lg>
+            <lg>
+               <l>Now ye that doth i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tend this year</l>
+               <l>To keep your Fa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s aright,</l>
+               <l>That doth depend u<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on theſe Feaſts,</l>
+               <l>Cauſe beniſh from your ſight</l>
+               <l>Theſe Almanacks of <hi>Aberdeen</hi>
+               </l>
+               <l>With others of that kind,</l>
+               <l>Or elſe your Fairs will err a Week,</l>
+               <l>Which ye too true will find.</l>
+            </lg>
+            <lg>
+               <l>For if theſe who at Fairs do uſe</l>
+               <l>Come but a Week to late,</l>
+               <l>And find theſe Fairs is paſt and gone</l>
+               <l>They will look wonderous blait.</l>
+               <l>Since <hi>Rabin</hi> in <hi>Aberdeen</hi> deceaſt</l>
+               <l>It is near fourty years,</l>
+               <l>And ever ſince their Almanacks</l>
+               <l>Hath ſtill been <hi>Jock</hi> the liers;</l>
+            </lg>
+            <lg>
+               <l>Yet they'l rely on <hi>Aberdeen,</hi>
+               </l>
+               <l>Becauſe it had the Name:</l>
+               <l>But when they ſee it errs ſo much</l>
+               <l>Thereof they will think ſhame,</l>
+               <l>And ſay the City <hi>Edinburgh</hi> is</l>
+               <l>The <hi>Metropolitan,</hi>
+               </l>
+               <l>Wherein all Arts is truly taught</l>
+               <l>That's for the uſe of Man.</l>
+            </lg>
+            <lg>
+               <l>If any Man will this deny</l>
+               <l>Let him take this Debate,</l>
+               <l>And Mr. <hi>Duncan</hi> now defend,</l>
+               <l>Or elſe he'l come too late.</l>
+               <l>For now he ſtands upon the Stage,</l>
+               <l>The day is almoſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> loſt,</l>
+               <l>Although in <hi>London</hi> he did teach,</l>
+               <l>Which cauſeth him to boaſt.</l>
+            </lg>
+            <lg>
+               <l>But ſuch a Maſter he hath been,</l>
+               <l>As <hi>Lilly</hi> to us ſhow;</l>
+               <l>Whom he did firſt in <hi>London</hi> meet,</l>
+               <l>The like he near did know.</l>
+               <l>They alwayes carp at all the Works</l>
+               <l>Which other men hath done,</l>
+               <l>If they them want; like <hi>Aeſhops</hi> Dog,</l>
+               <l>They'l bark even at the Moon.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
